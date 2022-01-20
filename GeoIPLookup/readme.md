@@ -1,9 +1,18 @@
 # Usage
 Update the sample csv file named IPFile.csv and execute the powershell script. This script uses curl to query ipinfo.io for the ip addresses provided.
 
-Sample Output:
+
 ```
 C:\User\UserName> .\IPLocationLookup.ps1
+Enter output file name:
+
+Sample Output file:
+
+!![csv file](https://github.com/amankhan-net/PowerShell/blob/main/GeoIPLookup/screenshot.png)
+
+
+
+To view view the output on screen comment out "export-csv" part.
 
 ip            city
 --            ----
