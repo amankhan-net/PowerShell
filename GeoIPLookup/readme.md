@@ -8,7 +8,7 @@ Enter output file name:
 
 Sample Output file:
 
-!![csv file](https://github.com/amankhan-net/PowerShell/blob/main/GeoIPLookup/screenshot.png)
+![csv file](https://github.com/amankhan-net/PowerShell/blob/main/GeoIPLookup/screenshot.png)
 
 
 
