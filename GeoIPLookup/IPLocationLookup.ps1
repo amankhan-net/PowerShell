@@ -1,0 +1,1 @@
+﻿ import-csv .\IPFile.csv | foreach {curl -s ipinfo.io/$($_.IP) |convertfrom-json | select ip,city}
